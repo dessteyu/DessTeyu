@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **dessteyu/DessTeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/baye-badiane-6b1277100/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't know yet.
--->
