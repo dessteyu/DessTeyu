@@ -7,4 +7,4 @@
 - 💬 Ask me about code and collaborations
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/baye-badiane-6b1277100/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i don't know yet.
+- ⚡ Fun fact: 🤔.
